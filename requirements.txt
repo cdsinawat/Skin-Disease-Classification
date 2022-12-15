@@ -8,3 +8,4 @@ torch==1.13.0
 tensorflow==2.8.4
 seaborn==0.12.1 
 scikit-learn==1.2.0
+opencv-python==4.6.0.66
