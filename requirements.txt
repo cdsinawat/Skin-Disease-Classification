@@ -7,3 +7,4 @@ streamlit==1.15.2
 torch==1.13.0 
 tensorflow==2.8.4
 seaborn==0.12.1 
+sklearn==1.1.3
