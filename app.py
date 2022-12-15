@@ -30,8 +30,6 @@ from keras.applications.vgg16 import VGG16, preprocess_input
 from keras.callbacks import ModelCheckpoint, EarlyStopping
 from sklearn.metrics import (ConfusionMatrixDisplay, confusion_matrix, \
                              accuracy_score)
-import cv2
-
 
 
 
