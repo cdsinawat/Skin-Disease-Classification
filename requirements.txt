@@ -1,0 +1,9 @@
+
+lobe==0.6.2
+pillow==9.0.1
+pandas==1.5.2
+matplotlib==3.5.3
+streamlit==1.15.2
+torch==1.7.0
+tensorflow==2.8.4
+seaborn==0.12.1 
