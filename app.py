@@ -36,9 +36,9 @@ from sklearn.metrics import (ConfusionMatrixDisplay, confusion_matrix, \
 our_folders = ['Acne and Rosacea Photos', \
               'Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions', \
               'Melanoma Skin Cancer Nevi and Moles']
-root_dir = '/datasets/test'
+root_dir = 'datasets/test'
 
-test_dir = '/datasets/test'
+test_dir = 'datasets/test'
 
 acne_train_path = os.path.join(root_dir,'Acne and Rosacea Photos')
 actinic_train_path = os.path.join(root_dir, 'Actinic Keratosis Basal Cell Carcinoma and other Malignant Lesions')
